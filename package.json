@@ -30,7 +30,7 @@
     "url": "https://github.com/pwmckenna/react-native-motion-manager/issues"
   },
   "dependencies": {
-    "react-native-connected-common": "^1.0.2"
+    "react-native-connected-common": "git+https://github.com/exposio/react-native-connected-common.git"
   },
   "homepage": "https://github.com/pwmckenna/react-native-motion-manager",
   "peerDependencies": {
