@@ -4,8 +4,8 @@
 //  Created by Patrick Williams in beautiful Seattle, WA.
 //
 
-#import "React/RCTBridge.h"
-#import "React/RCTEventDispatcher.h"
+#import "RCTBridge.h"
+#import "RCTEventDispatcher.h"
 #import "Accelerometer.h"
 
 @interface Accelerometer()

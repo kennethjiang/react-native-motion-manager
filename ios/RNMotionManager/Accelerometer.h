@@ -4,7 +4,7 @@
 //  Created by Patrick Williams in beautiful Seattle, WA.
 //
 
-#import "React/RCTBridgeModule.h"
+#import "RCTBridgeModule.h"
 #import <CoreMotion/CoreMotion.h>
 
 @interface Accelerometer : NSObject <RCTBridgeModule>
