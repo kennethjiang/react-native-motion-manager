@@ -4,7 +4,7 @@
 //  Created by Patrick Williams in beautiful Seattle, WA.
 //
 
-#import "React/RCTBridge.h"
+#import "RCTBridge.h"
 #import "RCTEventDispatcher.h"
 #import "Gyroscope.h"
 
