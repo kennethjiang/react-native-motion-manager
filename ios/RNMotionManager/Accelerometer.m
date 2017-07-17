@@ -5,7 +5,7 @@
 //
 
 #import "RCTBridge.h"
-#import "RCTEventDispatcher.h"
+#import "React/RCTEventDispatcher.h"
 #import "Accelerometer.h"
 
 @interface Accelerometer()
