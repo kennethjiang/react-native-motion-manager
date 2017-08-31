@@ -21,6 +21,7 @@ public class SensorManagerPackage implements ReactPackage {
     public List<NativeModule> createNativeModules(ReactApplicationContext reactContext) {
         List<NativeModule> modules = new ArrayList<>();
         modules.add(new DeviceMotionRecord(reactContext));
+        modules.add(new GravityRecord(reactContext));
         modules.add(new GyroscopeRecord(reactContext));
         modules.add(new AccelerometerRecord(reactContext));
         modules.add(new MagnetometerRecord(reactContext));
