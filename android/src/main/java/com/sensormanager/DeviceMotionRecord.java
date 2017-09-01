@@ -25,7 +25,7 @@ public class DeviceMotionRecord extends SensorRecord {
 
 	@Override
 	protected int getSensorType() {
-		return Sensor.TYPE_ROTATION_VECTOR;
+		return Sensor.TYPE_GAME_ROTATION_VECTOR;
 	}
 
 	@Override
